@@ -1,4 +1,4 @@
-
+Enhance TeamViewer for macOS with automatic TeamViewer for macOS Extension | wake-on-LAN + session-recording, the #1 extension. Includes wake-on-LAN and session-recording for a
 
 
 
